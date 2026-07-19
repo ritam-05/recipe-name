@@ -1,0 +1,284 @@
+{
+  "emotions": [
+    {
+      "emotion": "happy",
+      "description": "Feeling joyful, excited, or celebrating.",
+      "food_preferences": [
+        "Desserts",
+        "Ice cream",
+        "Pizza",
+        "Burgers",
+        "Mocktails",
+        "Celebration cake",
+        "Sushi",
+        "Finger foods"
+      ]
+    },
+    {
+      "emotion": "sad",
+      "description": "Feeling low, disappointed, or lonely.",
+      "food_preferences": [
+        "Chocolate",
+        "Ice cream",
+        "Warm brownies",
+        "Mac and cheese",
+        "Mashed potatoes",
+        "Hot chocolate",
+        "Chicken soup",
+        "Comfort pasta"
+      ]
+    },
+    {
+      "emotion": "stressed",
+      "description": "Mentally overwhelmed or under pressure.",
+      "food_preferences": [
+        "Dark chocolate",
+        "Herbal tea",
+        "Nuts",
+        "Fruit",
+        "Oatmeal",
+        "Avocado toast",
+        "Smoothies",
+        "Yogurt"
+      ]
+    },
+    {
+      "emotion": "anxious",
+      "description": "Feeling nervous or worried.",
+      "food_preferences": [
+        "Chamomile tea",
+        "Bananas",
+        "Warm soup",
+        "Rice bowls",
+        "Salmon",
+        "Whole-grain toast",
+        "Greek yogurt",
+        "Almonds"
+      ]
+    },
+    {
+      "emotion": "angry",
+      "description": "Feeling irritated or frustrated.",
+      "food_preferences": [
+        "Crunchy snacks",
+        "Spicy noodles",
+        "Chicken wings",
+        "Protein-rich meals",
+        "Cold drinks",
+        "Grilled chicken",
+        "Beef bowls",
+        "Fresh fruit"
+      ]
+    },
+    {
+      "emotion": "bored",
+      "description": "Seeking novelty or entertainment.",
+      "food_preferences": [
+        "Street food",
+        "Loaded fries",
+        "Nachos",
+        "Bubble tea",
+        "Fusion cuisine",
+        "DIY tacos",
+        "Sushi rolls",
+        "Snacks"
+      ]
+    },
+    {
+      "emotion": "romantic",
+      "description": "Feeling affectionate or intimate.",
+      "food_preferences": [
+        "Pasta",
+        "Wine-inspired mocktails",
+        "Chocolate-covered strawberries",
+        "Steak",
+        "Seafood",
+        "Cheesecake",
+        "Fondue",
+        "Fine dining desserts"
+      ]
+    },
+    {
+      "emotion": "tired",
+      "description": "Physically or mentally exhausted.",
+      "food_preferences": [
+        "Coffee",
+        "Green tea",
+        "Eggs",
+        "Protein smoothie",
+        "Oatmeal",
+        "Chicken rice",
+        "Bananas",
+        "Energy bowls"
+      ]
+    },
+    {
+      "emotion": "sick",
+      "description": "Recovering from illness.",
+      "food_preferences": [
+        "Chicken soup",
+        "Vegetable soup",
+        "Rice porridge",
+        "Ginger tea",
+        "Toast",
+        "Steamed vegetables",
+        "Coconut water",
+        "Fresh fruits"
+      ]
+    },
+    {
+      "emotion": "nostalgic",
+      "description": "Missing the past or childhood.",
+      "food_preferences": [
+        "Home-cooked meals",
+        "Family recipes",
+        "Grilled cheese",
+        "Tomato soup",
+        "Rice and curry",
+        "Pancakes",
+        "Apple pie",
+        "Milkshakes"
+      ]
+    },
+    {
+      "emotion": "lonely",
+      "description": "Seeking warmth and emotional comfort.",
+      "food_preferences": [
+        "Hot soup",
+        "Pizza",
+        "Chocolate",
+        "Ice cream",
+        "Ramen",
+        "Lasagna",
+        "Tea",
+        "Comfort casseroles"
+      ]
+    },
+    {
+      "emotion": "celebratory",
+      "description": "Celebrating success or milestones.",
+      "food_preferences": [
+        "Cake",
+        "Pizza",
+        "BBQ",
+        "Steak",
+        "Seafood platter",
+        "Mocktails",
+        "Desserts",
+        "Buffet meals"
+      ]
+    },
+    {
+      "emotion": "adventurous",
+      "description": "Wanting to explore new experiences.",
+      "food_preferences": [
+        "Thai food",
+        "Korean BBQ",
+        "Japanese ramen",
+        "Mexican tacos",
+        "Indian street food",
+        "Fusion cuisine",
+        "Sushi",
+        "Middle Eastern dishes"
+      ]
+    },
+    {
+      "emotion": "focused",
+      "description": "Working or studying intensely.",
+      "food_preferences": [
+        "Protein bowls",
+        "Salads",
+        "Nuts",
+        "Greek yogurt",
+        "Eggs",
+        "Whole grains",
+        "Smoothies",
+        "Lean meat"
+      ]
+    },
+    {
+      "emotion": "lazy",
+      "description": "Not wanting to cook or exert effort.",
+      "food_preferences": [
+        "Instant noodles",
+        "Frozen pizza",
+        "Sandwiches",
+        "Wraps",
+        "Takeout",
+        "Microwave meals",
+        "Ready-to-eat salads",
+        "Cereal"
+      ]
+    },
+    {
+      "emotion": "energetic",
+      "description": "Feeling active and motivated.",
+      "food_preferences": [
+        "Grilled chicken",
+        "Rice bowls",
+        "Protein shakes",
+        "Fresh fruits",
+        "Smoothie bowls",
+        "Wraps",
+        "Quinoa bowls",
+        "Trail mix"
+      ]
+    },
+    {
+      "emotion": "guilty",
+      "description": "Wanting balance after indulgence.",
+      "food_preferences": [
+        "Salads",
+        "Vegetable soups",
+        "Grilled fish",
+        "Fruit bowls",
+        "Green smoothies",
+        "Steamed vegetables",
+        "Low-calorie wraps",
+        "Yogurt"
+      ]
+    },
+    {
+      "emotion": "curious",
+      "description": "Interested in trying something different.",
+      "food_preferences": [
+        "Fusion dishes",
+        "International cuisine",
+        "Chef's specials",
+        "Seasonal menus",
+        "Food tasting platters",
+        "Experimental desserts",
+        "Street food",
+        "Exotic fruits"
+      ]
+    },
+    {
+      "emotion": "cozy",
+      "description": "Wanting warmth and relaxation.",
+      "food_preferences": [
+        "Hot cocoa",
+        "Pumpkin soup",
+        "Mac and cheese",
+        "Ramen",
+        "Fresh bread",
+        "Cookies",
+        "Tea",
+        "Stew"
+      ]
+    },
+    {
+      "emotion": "heartbroken",
+      "description": "Experiencing emotional pain after loss or breakup.",
+      "food_preferences": [
+        "Chocolate",
+        "Ice cream",
+        "Pizza",
+        "Cheesecake",
+        "Brownies",
+        "Comfort pasta",
+        "Milkshakes",
+        "Warm cookies"
+      ]
+    }
+  ]
+}
