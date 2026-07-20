@@ -1,4 +1,4 @@
-"""Application entry point for the recipe agent."""
+"""Application entry point for the recipe agent"""
 
 import argparse
 
